@@ -13,6 +13,11 @@ I'm working mostly with
 - Docker
 
 
+
+Me when Code works:
+
+![Slothy boi](images/sloth.gif)
+
 <!--
 **MariusJahn/mariusjahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
