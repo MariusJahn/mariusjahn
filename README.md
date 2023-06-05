@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm currently learning
+- [NextJS](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+
+I'm working mostly with
+- TypeScript + React
+- C# + .NET
+- TailwindCSS
+- BPMN
+- PostgreSQL / SQLite / MariaDB / MySQL
+- Docker
+
+
 <!--
 **MariusJahn/mariusjahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
